@@ -1,0 +1,16 @@
+# virtual environment
+env
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# web crawl results
+text
+
+# web crawl results processing
+processed
+
+# env vars
+.env
+
+.DS_Store
